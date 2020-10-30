@@ -150,5 +150,3 @@ colnames(rpred)[1:2] <- c("Id","Prediction")
 
 # Write results 
 write.csv(rpred,file="tfiresults.csv",row.names=F)
-
-
