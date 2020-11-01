@@ -2,7 +2,7 @@
 
 # Table of Content
 
-- **Kaggle Competition*
+- **Kaggle Competition**
 
     - [Titanic Survival](https://github.com/mareksturek/kaggle-competition/blob/main/01_titanic_survival.ipynb)
 
