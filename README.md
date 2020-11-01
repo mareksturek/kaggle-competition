@@ -2,7 +2,9 @@
 
 # Table of Content
 
-- Titanic Survival
+- **Kaggle Competition*
 
-- TFI Restaurant Revenue
+    - [Titanic Survival](https://github.com/mareksturek/kaggle-competition/blob/main/01_titanic_survival.ipynb)
+
+    - [TFI Restaurant Revenue](https://github.com/mareksturek/kaggle-competition/blob/main/02_tfi_restaurant_revenue.R)
 
