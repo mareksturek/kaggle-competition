@@ -2,8 +2,6 @@
 # TFI Restaurant Revenue Prediction. 
 # The goal is to predict the annual revenue of a particular location given a set of datapoints associated with that location. 
 # https://www.kaggle.com/c/restaurant-revenue-prediction/
-# 10/27/2020
-
 
 # Import dataset 
 setwd("~/Documents/Github/kaggle-competition/data")
