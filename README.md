@@ -4,7 +4,7 @@
 
 - **Kaggle Competition**
 
-    - [Titanic Survival](https://github.com/mareksturek/kaggle-competition/blob/main/01_titanic_survival.ipynb)
+    - [Titanic Survival](https://github.com/mareksturek/kaggle-competition/blob/main/notebooks/01_titanic_survival.ipynb)
 
-    - [TFI Restaurant Revenue](https://github.com/mareksturek/kaggle-competition/blob/main/02_tfi_restaurant_revenue.R)
+    - [TFI Restaurant Revenue](https://github.com/mareksturek/kaggle-competition/blob/main/notebooks/02_tfi_restaurant_revenue.R)
 
